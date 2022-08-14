@@ -1,0 +1,15 @@
+div p{
+    color:rgb(255, 0, 187);
+}
+div + p{
+    color:red;
+}
+a:link{
+    color:green;
+}
+a:vistied{
+    color:pink;
+}
+a:hover{
+    color:red;
+}
