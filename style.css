@@ -1,0 +1,22 @@
+*{
+    padding:0px;;
+    margin:0px;
+}
+body{
+    background-image: url(agra.jpg);
+    background-position: center;
+    background-size:cover;
+}
+.menu-bar{
+    text-align:center;
+    background-color:green;
+}
+.menu-bar ul{
+    display:inline-flex;
+    color:white;
+    
+}
+.menu-bar ul li{
+    width:120px;
+    margin-65px;
+}
